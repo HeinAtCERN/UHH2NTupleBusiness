@@ -1,0 +1,1 @@
+myproxy-init -s myproxy.cern.ch -d -n -c 192:00
